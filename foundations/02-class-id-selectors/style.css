@@ -1,0 +1,19 @@
+.redbg{
+    background-color: lightcoral;
+    color: black;
+}
+
+#num2{
+    color: mediumblue;
+    font-size: x-large;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#num4{
+    color: black;
+    background-color: lightgreen;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
